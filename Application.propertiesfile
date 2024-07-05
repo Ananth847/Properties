@@ -1,0 +1,4 @@
+eureka.client.fetch-registry=true
+eureka.client.register-with-eureka=true
+eureka.instance.perfer-ip-address=true
+eureka.client.service-url.defaultzone=https://localhost:8761/eureka
